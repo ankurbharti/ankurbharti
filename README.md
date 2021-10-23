@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankurbharti
 - 👀 I’m interested in coding,reading and watching series.
-- 🌱 I’m currently doing an internship on software testing.
+- 🌱 I’m currently doing internship on software testing.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
